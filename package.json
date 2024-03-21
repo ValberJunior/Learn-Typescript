@@ -1,4 +1,10 @@
 {
+  "name": "learn-typescript",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "tsc --watch"
+  },
   "devDependencies": {
     "@types/node": "^20.11.30"
   }
