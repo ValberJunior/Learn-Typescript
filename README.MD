@@ -1,5 +1,7 @@
 # Dominando o Typescript
 
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*moJeTvW97yShLB7URRj5Kg.png" alt="Typescript image"/>
+
 Ao clonar
 
 ```bash
