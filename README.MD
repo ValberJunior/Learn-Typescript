@@ -1,11 +1,15 @@
 # Dominando o Typescript
 
-## HCode
+Ao clonar
+
+```bash
+yarn
+```
 
 Para deixar o compilador do typescript rodando e escutando alterações
 
 ```bash
-tsc --watch
+yarn dev
 ```
 
 Para rodar os exemplos:
