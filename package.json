@@ -7,5 +7,9 @@
   },
   "devDependencies": {
     "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "@types/reflect-metadata": "^0.1.0",
+    "reflect-metadata": "^0.2.1"
   }
 }
