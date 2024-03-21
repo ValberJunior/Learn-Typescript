@@ -61,5 +61,5 @@ class SMS2 extends Notificacao2 implements ITelefone2 {
 }
 
 
-new Email2({nome: "Valbinho play", email: "Rivelino@gmail.com", telefone: "48484-484848"}).enviar()
-new SMS2({nome: "Valbinho play", email: "Rivelino@gmail.com", telefone: "48484-484848"}).enviar()
+new Email2({nome: "Valber", email: "test@gmail.com", telefone: "48484-484848"}).enviar()
+new SMS2({nome: "Valber", email: "test@gmail.com", telefone: "48484-484848"}).enviar()

@@ -20,7 +20,7 @@ class Permissao {
 const permissao = new Permissao("Admin",1);
 
 try {
-    permissao.nome = "USER"               // tratamento de erros
+    permissao.nome = "SUPERUSER"               // tratamento de erros
 }catch(e:any){
     console.log(e.message)
 }
