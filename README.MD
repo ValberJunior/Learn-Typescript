@@ -26,6 +26,7 @@ node ${nome-do-arquivo}
 | **Abstração**        |  [docs 📑](https://github.com/ValberJunior/Learn-Typescript/blob/master/files/Abstra%C3%A7%C3%A3o.pdf) |
 | **Compilador**       |  [docs 📑](https://github.com/ValberJunior/Learn-Typescript/blob/master/files/Compilador%2BTypeScript.pdf) |
 | **Encapsulamento**       |  [docs 📑](https://github.com/ValberJunior/Learn-Typescript/blob/master/files/Encapsulamento.pdf) |
+| **Generics**       |  [docs 📑](https://github.com/ValberJunior/Learn-Typescript/blob/master/files/Generics.pdf) |
 | **Interfaces**    |  [docs 📑](https://github.com/ValberJunior/Learn-Typescript/blob/master/files/Interfaces.pdf) |
 | **Módulos**        | [docs 📑](https://github.com/ValberJunior/Learn-Typescript/blob/master/files/M%C3%B3dulos.pdf) |
 | **Namespace**        |  [docs 📑](https://github.com/ValberJunior/Learn-Typescript/blob/master/files/Namespaces.pdf) |
