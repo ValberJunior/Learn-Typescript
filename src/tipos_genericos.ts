@@ -1,5 +1,5 @@
-function obterPrimeiraPosição<T>(meuArray: Array<T>) : T {
-    return meuArray[0];
+function obterPrimeiraPosição<T>(meuArray: Array<T>) : T {   // Definição do tipo "T" genérico
+    return meuArray[1];
 }
 
-console.log(obterPrimeiraPosição(["Glaucio", "Joao", "Rafael"]))
+console.log(obterPrimeiraPosição(["Glaucio", 10, "Rafael"]))
